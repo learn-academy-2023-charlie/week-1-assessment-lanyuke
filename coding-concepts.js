@@ -15,9 +15,9 @@ const colors = ["tangerine", "magenta", "lilac", "daffodil"]
 // --------------------1) What will this log?
 
 const cohort = "LEARN 2023"
-// console.log(cohort.length)
+console.log(cohort.length)
 
-// a) Your answer:
+// a) Your answer:0
 // b) Verify and explain:
 
 // --------------------2) What will this log?
