@@ -1,4 +1,4 @@
-# ASSESSMENT 1: Tech Interview Practice Questions
+<!-- # ASSESSMENT 1: Tech Interview Practice Questions
 
 Answer the following questions.
 
@@ -8,23 +8,28 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 INSTRUCTOR EXAMPLE: What is a conditional statement?
 
-Your answer:
-
-Researched answer:
+Your answer: 
+Researched answer: -->
 
 1. What is git? What is the difference between git and Github?
 
-Your answer:
+Your answer: 
+Git is an software that use by programer to tracking code development and provide protection of the working code from being overwritten by unapproved code. Different form "git", Github is the most known platform that use git technology by programers around the world to share and work on coding project together today.
 
 Researched answer:
+"Git" is a free and open source software development tool that can work on various type of projects, it has many different fetures share with other similar tools and support any kinds of workflow. GitHub is an internet hosting service that provides software developer with version control and support continuous editing using "Git".
+
+<!-- Researched answer from: 
+https://git-scm.com/ &
+https://en.wikipedia.org/wiki/GitHub -->
 
 2. Which JavaScript operators will return a Boolean value?
 
-Your answer:
+Your answer:The JaveScript operators that will return a Boolean value are conditional operator, equallity operator, mutator operator.
 
 Researched answer:
 
-1. What is the difference between an array's index and its value?
+3. What is the difference between an array's index and its value?
 
 Your answer:
 
