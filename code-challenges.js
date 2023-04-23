@@ -88,7 +88,7 @@ const reverseFunction =(string1) => {
 const currentCohort = "Charlie 2023"
 // Expected output: "3202 eilrahC"
 console.log(reverseFunction(currentCohort));
-// Output: 9
+// Output: 3202 eilrahC
 
 
 // --------------------4) Create the code that will return the last index of the given value from the array using the test variables provided below.
